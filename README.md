@@ -2,7 +2,7 @@
 
 ```OPEN SOURCE CODE```
 
-```Code By : MR.1557 Aldi Bachtiar rifai
+```Code By : MR.1557 Aldi Bachtiar rifai```
 
 ```Gc : Mafia teknologi Indonesia```
 
