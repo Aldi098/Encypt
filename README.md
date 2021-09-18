@@ -37,4 +37,5 @@
 ## Sosial Media
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Aldi098)
-[![](https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=black&labelColor=white)](https://github.com/Yayan-XD)
+
+[![](https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=red&labelColor=white)](https://youtube.com/channel/UC7ygjAbDjuiN76PqOlJm40A)
